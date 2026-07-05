@@ -1,0 +1,2 @@
+# GreenCompactor - Trash Classification
+
